@@ -11,3 +11,5 @@ def function:
 
 statement:
   declare w p   
+
+def new function_1:  
