@@ -8,3 +8,6 @@ def function:
 		do_this and this plus this
 	else:
 		do_that
+
+statement:
+  declare w    
