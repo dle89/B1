@@ -10,4 +10,4 @@ def function:
 		do_that
 
 statement:
-  declare w    
+  declare w p   
